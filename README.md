@@ -4,11 +4,22 @@
 
 I build mobile and browser applications with a focus on clear user experiences, reliable app logic, and practical problem solving. My current project work includes Flutter/Dart, Android, and vanilla JavaScript.
 
+## Education
+
+**B.Sc. in Computer Science** — Misr Higher Institute of Engineering and Technology  
+2019–2023 · Overall grade: Good
+
+## Training
+
+**Flutter Course** — Information Technology Institute (ITI)  
+2023
+
 ## Skills
 
 - **Mobile:** Flutter, Dart, Riverpod, Android, Kotlin, Gradle
 - **Web:** HTML5, CSS3, JavaScript
 - **App features:** Camera capture, on-device ML Kit text recognition, responsive interfaces, accessibility
+- **Working style:** Adaptable, organized, collaborative, and comfortable prioritizing tasks under time constraints
 
 ## Selected projects
 
@@ -39,4 +50,3 @@ A responsive two-player browser game with win and draw detection, keyboard-opera
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/bassel-taha-3a2120220)
-
