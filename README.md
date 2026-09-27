@@ -6,12 +6,12 @@ I build mobile and browser applications with a focus on clear user experiences, 
 
 ## Education
 
-**B.Sc. in Computer Science** — Misr Higher Institute of Engineering and Technology  
+**B.Sc. in Computer Science** — Misr Higher Institute of Engineering and Technology<br>
 2019–2023 · Overall grade: Good
 
 ## Training
 
-**Flutter Course** — Information Technology Institute (ITI)  
+**Flutter Course** — Information Technology Institute (ITI)<br>
 2023
 
 ## Skills
@@ -50,4 +50,3 @@ A responsive two-player browser game with win and draw detection, keyboard-opera
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/bassel-taha-3a2120220)
-
